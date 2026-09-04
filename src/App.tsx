@@ -10,7 +10,7 @@ function App() {
   const value=8;
   console.log(value)
 
-  let gib;
+  
   
 
   return (
