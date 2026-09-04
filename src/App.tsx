@@ -10,6 +10,8 @@ function App() {
   const value=8;
   console.log(value)
 
+  let mess;
+
   
   
 
@@ -23,6 +25,7 @@ function App() {
         </div>
         <div>
           <h1>Something else</h1>
+          <h2>Something better</h2>
           <p>
             Edit <code>src/App.tsx</code> and save to test <code>HMR</code>
           </p>
