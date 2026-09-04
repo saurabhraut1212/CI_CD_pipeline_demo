@@ -59,4 +59,4 @@ jobs:
           context: .
           push: true
           platforms: linux/arm64
-          tags: saurabhraut123/cicd demo:latest
+          tags: saurabhraut123/cicd-demo:latest
