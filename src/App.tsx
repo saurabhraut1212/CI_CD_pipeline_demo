@@ -7,7 +7,7 @@ import './App.css'
 function App() {
   const [count, setCount] = useState(0)
 
-  let value=8;
+  const value=8;
   console.log(value)
   
 
