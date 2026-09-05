@@ -11,6 +11,7 @@ function App() {
   console.log(value)
 
   const add=9;
+  console.log(add)
 
   
   
