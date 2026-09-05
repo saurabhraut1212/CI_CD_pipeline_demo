@@ -10,7 +10,8 @@ function App() {
   const value=8;
   console.log(value)
 
-  
+  const add=9;
+  console.log(add)
 
   
   
